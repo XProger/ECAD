@@ -1,5 +1,10 @@
 # ECAD
-Electronic design automation system written on Assembler
+Electronic design automation system written on Assembler (FASM)
+
+Features:
+- Tiny size
+- Low memory usage
+- Fast anti-aliased rendering (CPU only, SIMD)
 
 Supported OS:
 - Kolibri
